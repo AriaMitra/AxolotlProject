@@ -1,28 +1,4 @@
 
-"""
-Axolotl Rescue Deluxe - Final School Version
-
-How to run:
-    python axolotl_game_deluxe_final.py
-
-Important:
-- Keep this file in the SAME folder as:
-    Axolotl Map - Mexico labeled.png
-- Uses only Python standard library (tkinter, random, os)
-
-Features:
-- colorful UI
-- fact book
-- real map image provided by user
-- food web
-- conservation section
-- scrollable long pages
-- quiz
-- word search
-- matching game
-- coloring lab
-- rescue mini-game
-"""
 
 import os
 import random
