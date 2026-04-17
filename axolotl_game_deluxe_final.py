@@ -5,7 +5,7 @@ import random
 import tkinter as tk
 from tkinter import messagebox
 
-WIDTH = 120
+WIDTH = 1200
 HEIGHT = 820
 
 BG = "#d6f4ff"
