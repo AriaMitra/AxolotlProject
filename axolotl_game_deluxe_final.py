@@ -342,13 +342,13 @@ class AxolotlGame:
             except Exception:
                 tk.Label(
                     wrap,
-                    text="The map image file was found, but Tkinter could not open it.\nMake sure it stays as a PNG file in the same folder as the Python game.",
+                    text="B",
                     bg=BG, fg="red", font=("Arial", 13)
                 ).pack()
         else:
             tk.Label(
                 wrap,
-                text="Map image not found.\nPut 'Axolotl Map - Mexico labeled.png' in the same folder as this Python file.",
+                text="A",
                 bg=BG, fg="red", font=("Arial", 13)
             ).pack()
 
