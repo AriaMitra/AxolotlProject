@@ -177,7 +177,7 @@ class AxolotlGame:
         items = [
             ("Home", self.show_home),
             ("Fact Book", self.show_fact_book),
-            ("Ma", self.show_map),
+            ("Map", self.show_map),
             ("Food Web", self.show_food_web),
             ("Conservation", self.show_conservation),
             ("Quiz", self.show_quiz),
